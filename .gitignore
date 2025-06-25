@@ -1,0 +1,16 @@
+*.exe~
+*.out
+*.test
+
+/vendor/
+
+go.work
+
+.idea/
+*.vs/
+*.vscode/
+
+.DS_Store
+Thumbs.db
+
+config.json
