@@ -1,0 +1,31 @@
+{
+    "app": {
+        "name": "peneleh"
+    },
+    "web": {
+        "prefork": false,
+        "port": 3000
+    },
+    "log": {
+        "level": 6
+    },
+    "database": {
+        "username": "root",
+        "password": "root",
+        "host": "localhost",
+        "port": 5428,
+        "dbname": "sesasi-db",
+        "sslmode": "disable"
+    },
+    "jwt": {
+        "secret_key": "abogoboga123"
+    },
+    "pass": {
+        "default": "cek123"
+    },
+    "admin": {
+        "name": "admin",
+        "email": "admin@gmail.com",
+        "password": "admin123"
+    }
+}

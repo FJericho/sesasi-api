@@ -12,5 +12,3 @@ go.work
 
 .DS_Store
 Thumbs.db
-
-config.json
